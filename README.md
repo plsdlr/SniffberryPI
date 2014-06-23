@@ -20,7 +20,7 @@ Steps:
 
 2. Install Supercollider from Packet Manager -> sudo apt-get install supercollider
 
-3. Set up airmon & tshark & Jacked
+3. Set up airmon & tshark & Jack
 
    some tutorials on Jacked & Supercollider on embedded systems can be found here:
    
