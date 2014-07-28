@@ -26,7 +26,7 @@ Steps:
    
    https://github.com/redFrik/udk10-Embedded_Systems/tree/master/udk131017
    
-4. Put the shellscript, python script and supercollider programm in your default user folder
+4. Put the shellscript, python script and supercollider script in your default user folder
 
 5. Let the shellscript execute as startup or execute it yourself
 
