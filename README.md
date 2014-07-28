@@ -22,7 +22,7 @@ Steps:
 
 3. Set up airmon & tshark & Jack
 
-   some tutorials on Jacked & Supercollider on embedded systems can be found here:
+   some tutorials on Jack & Supercollider on embedded systems can be found here:
    
    https://github.com/redFrik/udk10-Embedded_Systems/tree/master/udk131017
    
